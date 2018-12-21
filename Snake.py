@@ -1,3 +1,4 @@
+#Copyright By TayshwarSolo
 import random
 import curses
 
