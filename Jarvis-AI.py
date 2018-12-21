@@ -1,3 +1,4 @@
+#Copyright By TayshwarSolo
 from gtts import gTTs
 import speech_recognition as sr
 import os
